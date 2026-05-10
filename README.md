@@ -44,7 +44,7 @@ This project aims to analyze historical video game sales data (2010–2019) to i
 
 ## Dataset Information
 
-- Source: Kaggle / Video Game Sales Dataset
+- Source: [Kaggle / Video Game Sales Dataset](https://www.kaggle.com/datasets/lamskdna/video-games-sales/data?select=VideoGames_Sales.xlsx)
 - Period: 2010–2019
 - Features:
   - Title
