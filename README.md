@@ -5,10 +5,12 @@ Analysis of historical video game sales data (2010–2019) to identify trends in
 
 ## Repository Outline
 
-├── data/                   # Raw VideoGames Dataset
-├── notebook/               # Jupyter notebooks for analysis
-├── requirements.txt        # Python dependencies
-└── README.md               # Project overview explanation
+```bash
+├── data/                   # Raw VideoGames Dataset   
+├── notebook/               # Jupyter notebooks for analysis   
+├── requirements.txt        # Python dependencies   
+└── README.md               # Project overview explanation   
+```
 
 ---
 
@@ -62,7 +64,7 @@ The objective of this project is to identify:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Programming Language
 - Python
@@ -77,7 +79,7 @@ The objective of this project is to identify:
 
 ---
 
-## 📈 Analysis Workflow
+## Analysis Workflow
 
 1. Data Loading
 2. Data Cleaning
