@@ -22,25 +22,23 @@ This project aims to analyze historical video game sales data (2010–2019) to i
 
 ---
 
-## Project Objective
+### SMART Objective
 
-The objective of this project is to identify:
-
-- The most profitable game genres
-- Platforms with the highest sales performance
-- Publisher trends in successful games
-- Optimal release timing with lower competition
-- Strategic combinations of genre and platform
+**Specific :** Identify the optimal combination of game genre, platform, and release timing for maximizing sales performance.  
+**Measurable :** Measured using average global sales and regional sales distribution.   
+**Achievable :** Based on historical video game sales dataset.    
+**Relevant :** Supports new publishers in designing an effective launch strategy.   
+**Time-bound :** Analysis using historical data from 2010–2019.   
 
 ---
 
-## Business Questions
+## Problem Breakdown
 
-1. Which game genres generate the highest average sales?
-2. Which platforms contribute the most to global sales?
-3. Which publishers dominate high-performing genres?
-4. When is the best release period for maximizing sales?
-5. How can new publishers design better launch strategies?
+- Which game genres and platforms generate the highest average sales?
+- Which publishers dominate high-performing game genres?
+- Which platforms contribute the most to overall game sales?
+- When is the optimal release period with relatively lower competition?
+- How can new publishers design an optimal launch strategy based on these insights?
 
 ---
 
