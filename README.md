@@ -109,7 +109,7 @@ This project aims to analyze historical video game sales data (2010–2019) to i
 ### 4️⃣ **Release Timing Analysis**
   ![Release Timing Analysis](./images/Activision_Monthly_Game_Release.png "Release Timing Analysis")
   <br>
-### 4️⃣ **Platform Analysis**
+### 5️⃣ **Platform Analysis**
   ![Platform Analysis](./images/Average_Sales_Based_on_Platform.png "Platform Analysis")
 
 ---
