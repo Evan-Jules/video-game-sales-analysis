@@ -1,12 +1,14 @@
 # Video Game Sales Analysis
 
-Analysis of historical video game sales data (2010–2019) to identify trends in genre, platform, and release strategy that contribute to higher sales performance.
+This Project Analyze historical video game sales data (2010–2019) to identify trends in genre, platform, and release strategy that contribute to higher sales performance.
 
+---
 
 ## Repository Outline
 
 ```bash
 ├── data/                   # Raw VideoGames Dataset   
+├── images/                 # Analysis Preview   
 ├── notebook/               # Jupyter notebooks for analysis   
 ├── requirements.txt        # Python dependencies   
 └── README.md               # Project overview explanation   
@@ -14,7 +16,8 @@ Analysis of historical video game sales data (2010–2019) to identify trends in
 
 ---
 
-### Project Background
+## Project Background
+
 Over the past decade, the gaming industry has grown rapidly and evolved into a highly competitive market driven by changing consumer preferences. 
 In this landscape, new publishers must strategically identify the optimal combination of genre, platform, and release timing to maximize their chances of success.
 
@@ -22,7 +25,7 @@ This project aims to analyze historical video game sales data (2010–2019) to i
 
 ---
 
-### SMART Objective
+## SMART Objective
 
 **Specific :** Identify the optimal combination of game genre, platform, and release timing for maximizing sales performance.  
 **Measurable :** Measured using average global sales and regional sales distribution.   
@@ -89,5 +92,39 @@ This project aims to analyze historical video game sales data (2010–2019) to i
     - Release Timing Analysis
     - Platform Analysis
 4. Conclusion
+
+---
+
+## Analysis Preview
+
+### 1️⃣ **Descriptive Statistic**
+  ![Descriptive Statistic](./images/Top_10_Most_Number_of_Games_per_Genre.png "Descriptive Statistic")
+  <br>
+### 2️⃣ **Genre Analysis**
+  ![Genre Analysis](./images/Top_10_Average_Sales_Based_on_Game_Genre.png "Genre Analysis")
+  <br>
+### 3️⃣ **Publisher Analysis**
+  ![Publisher Analysis](./images/Top_10_Publisher_(Shooter-Game).png "Publisher Analysis")
+  <br>
+### 4️⃣ **Release Timing Analysis**
+  ![Release Timing Analysis](./images/Activision_Monthly_Game_Release.png "Release Timing Analysis")
+  <br>
+### 4️⃣ **Platform Analysis**
+  ![Platform Analysis](./images/Average_Sales_Based_on_Platform.png "Platform Analysis")
+
+---
+
+## Conclusion
+
+As a new Publisher in video game, sales performance is influenced by a combination of genre selection, platform choice, and release timing rather than sheer production volume.
+
+While the Action genre dominates in terms of the number of releases, it does not translate into the highest average sales, indicating a saturated and highly competitive market. In contrast, the Shooter genre shows the strongest revenue potential, making it a more optimal choice for new publishers.
+
+From a platform perspective, Xbox 360 emerges as the most favorable platform due to its consistently higher average sales compared to others. Additionally, release timing plays a critical role, as major publishers concentrate their launches in peak periods such as October and November, creating intense competition.
+
+Therefore, launching in lower-competition periods, particularly February, provides a strategic advantage for new entrants to gain visibility and maximize performance.
+
+Overall, a data-driven launch strategy that combines high-performing genre (Shooter), strong platform (Xbox 360), and optimal timing (February) significantly increases the likelihood of commercial success for new publishers.
+
 
 ---
